@@ -1,0 +1,7 @@
+path: "/content/drive/MyDrive/LPD"
+train: "/content/drive/MyDrive/LPD/image/train"
+test: "/content/drive/MyDrive/LPD/image/test"
+val: "/content/drive/MyDrive/LPD/image/valid"
+
+nc: 1
+names: ["Person_Bike"]
